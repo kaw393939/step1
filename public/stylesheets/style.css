@@ -1,0 +1,35 @@
+body {
+  font: 14px "Open Sans", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+#content {
+  width: 62%;
+  float: left;
+  background-color: #00f;
+}
+#right_side {
+  width: 38%;
+  float: left;
+  background-color: #f00;
+}
+#menu ul {
+  margin: 0px;
+}
+#menu {
+  background-color: #008000;
+}
+#menu li {
+  display: inline;
+  margin-left: 20px;
+}
+#footer {
+  background-color: #ff0;
+  clear: both;
+}
